@@ -1,1 +1,7 @@
 this git bash Command practice
+
+
+file tracking
+
+
+save changes
